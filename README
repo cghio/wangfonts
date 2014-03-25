@@ -1,0 +1,16 @@
+Free Chinese TrueType fonts donated by Prof. Hann-Tzong WANG.
+
+王漢宗自由字型由研發天蠶字庫的台灣中原大學數學系王漢宗教授先分別在 2000 年和
+2004 年先後捐出 10 套 WCL 系列字型和 32 套新字型，全部以 GNU GPL v2 分發。
+
+Because of GitHub's 100MB repository size restriction, this repository contains
+only 4 Simplified Chinese fonts:
+
+王汉宗粗楷体简体 wts11.ttf
+王汉宗中魏碑简体 wts43.ttf
+王汉宗中仿宋简体 wts47.ttf
+王汉宗细新宋简体 wts55.ttf
+
+For other fonts, visit:
+
+https://code.google.com/p/wangfonts/
